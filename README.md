@@ -4,3 +4,4 @@ https://viniciuscantanhede.github.io/Teste_Analytics_ViniciusDosSantos/Graficos/
 https://viniciuscantanhede.github.io/Teste_Analytics_ViniciusDosSantos/Graficos/top_produtos.html
 https://viniciuscantanhede.github.io/Teste_Analytics_ViniciusDosSantos/Graficos/top_smartphones.html
 https://viniciuscantanhede.github.io/Teste_Analytics_ViniciusDosSantos/Graficos/top_categorias.html
+https://viniciuscantanhede.github.io/Teste_Analytics_ViniciusDosSantos/Graficos/vendas_mensal.html
