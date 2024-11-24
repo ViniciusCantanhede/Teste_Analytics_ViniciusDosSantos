@@ -11,4 +11,4 @@
 -----
 - **Pasta Graficos**: Estão os gráficos gerados e salvos em HTML. **Desconsiderem essa pasta, só a coloquei para ficar melhor organizado.** Como dito acima, os gráficos interativos não são visíveis no notebook.
 -----
-- **Pasta Relatório**: Está o relatório em .md, explicando os insights e sugerindo possíveis ações baseadas nesses insights.
+- **Pasta Relatório**: Está o relatório em PDF, explicando os insights e sugerindo possíveis ações baseadas nesses insights.
